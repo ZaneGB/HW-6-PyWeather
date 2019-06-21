@@ -1,1 +1,1 @@
-# HW-6-PyWeather
+Weather as we Approach the Equator
